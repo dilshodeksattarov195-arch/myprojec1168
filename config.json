@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsprocess",
+        "uuid": 6380784,
+        "checksum": "13ehho"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
